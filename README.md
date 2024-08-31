@@ -57,11 +57,11 @@
     <p>Join us and experience the adventure and excitement that Mickey Mouse represents. Let’s make this the best week ever!</p>
 </div>
 
-    <div class="rivalry">
-        <h3>Why We're Better than Team Dumbo</h3>
-        <p>Sure, Dumbo can fly, but Mickey is the true leader of fun and adventure! Team Dumbo might think they can outdo us, but the Mickey Mouse group has unbeatable energy, creativity, and charisma.</p>
-        <p>We don’t just compete – we dominate with style! The Mickey Mouse group stands strong, and everyone knows that when it comes to fun, Dumbo’s no match for the magic of Mickey!</p>
-    </div>
+<div class="rivalry">
+    <h3>Why We're Better than Team Dumbo</h3>
+    <p>Sure, Dumbo can fly, but Mickey is the true leader of fun and adventure! Team Dumbo might think they can outdo us, but the Mickey Mouse group has unbeatable energy, creativity, and charisma.</p>
+    <p>We don’t just compete – we dominate with style! The Mickey Mouse group stands strong, and everyone knows that when it comes to fun, Dumbo’s no match for the magic of Mickey!</p>
+</div>
 
 <footer>
     © 2024 University of Ottawa | Week 101 | Mickey Mouse Group
