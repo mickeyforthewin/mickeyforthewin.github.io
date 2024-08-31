@@ -58,9 +58,11 @@
 </div>
 
 <div class="rivalry">
-    <h3>Why We're Better than Team Dumbo</h3>
-    <p>Sure, Dumbo can fly, but Mickey is the true leader of fun and adventure! Team Dumbo might think they can outdo us, but the Mickey Mouse group has unbeatable energy, creativity, and charisma.</p>
-    <p>We don’t just compete – we dominate with style! The Mickey Mouse group stands strong, and everyone knows that when it comes to fun, Dumbo’s no match for the magic of Mickey!</p>
+    <h3>Why We Can't Stand Team Dumbo</h3>
+    <p>Let’s be real: Team Dumbo? Really? A flying elephant might be cute, but can they match the power, prestige, and sheer awesomeness of Mickey Mouse? Absolutely not!</p>
+    <p>Dumbo’s tiny ears can't hear how loud we're going to dominate them during Week 101. They might think they're soaring high, but we’ll bring them back down to Earth with our energy and unstoppable team spirit!</p>
+    <p>The Mickey Mouse group doesn’t just compete – we crush the competition. Team Dumbo, prepare yourselves because we’re coming for you, and trust us, you’re not ready for the fun storm that’s coming your way!</p>
+    <p>#MickeyMouseForever #DumboGoHome</p>
 </div>
 
 <footer>
