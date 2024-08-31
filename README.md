@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mickey Mouse is the Best</title>
+    <title>Week 101 - Mickey Mouse Group</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f8ff;
+            background-color: #f9f9f9;
             color: #333;
             margin: 0;
             padding: 0;
             text-align: center;
         }
         header {
-            background-color: #ff6347;
+            background-color: #007d9c;
             color: white;
             padding: 20px 0;
             font-size: 2.5em;
@@ -30,9 +30,13 @@
             width: 300px;
             height: auto;
             border-radius: 10px;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 1.2em;
         }
         footer {
-            background-color: #ff6347;
+            background-color: #007d9c;
             color: white;
             padding: 10px 0;
             margin-top: 20px;
@@ -42,20 +46,21 @@
 <body>
 
 <header>
-    Mickey Mouse: The Best Character Ever!
+    Week 101 - Mickey Mouse Group!
 </header>
 
 <div class="content">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d4/Mickey_Mouse.png" alt="Mickey Mouse Image">
-    <h2>Why Mickey Mouse is the Best</h2>
-    <p>Mickey Mouse, the iconic character created by Walt Disney, has been entertaining children and adults alike since 1928. His cheerful personality, bravery, and loyalty make him a timeless character beloved by generations.</p>
-    <p>From his first appearance in "Steamboat Willie" to becoming the mascot of The Walt Disney Company, Mickey has captured the hearts of millions. He teaches us that being kind, adventurous, and optimistic will always win the day!</p>
-    <p>No other character has the same magic and joy that Mickey brings. That's why Mickey Mouse is the best!</p>
+    <h2>Welcome to the Best Group of Week 101</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d4/Mickey_Mouse.png" alt="Mickey Mouse">
+    <p>The Mickey Mouse group is your ultimate squad for Week 101 at the University of Ottawa! If you're looking for fun, excitement, and an unforgettable frosh experience, you've come to the right place.</p>
+    <p>As part of the legendary Mickey Mouse group, you will be part of something magical. Our team spirit, creativity, and high energy make us the standout group during Week 101. We’re here to make sure you have an amazing start to university life.</p>
+    <p>Join us and experience the adventure and excitement that Mickey Mouse represents. Let’s make this the best week ever!</p>
 </div>
 
 <footer>
-    © 2024 Mickey Mouse Fans | All Rights Reserved
+    © 2024 University of Ottawa | Week 101 | Mickey Mouse Group
 </footer>
 
 </body>
 </html>
+
